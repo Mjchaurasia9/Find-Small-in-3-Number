@@ -1,0 +1,15 @@
+/home/mjchaurasia/C#/findsmall/bin/Debug/net6.0/findsmall
+/home/mjchaurasia/C#/findsmall/bin/Debug/net6.0/findsmall.deps.json
+/home/mjchaurasia/C#/findsmall/bin/Debug/net6.0/findsmall.runtimeconfig.json
+/home/mjchaurasia/C#/findsmall/bin/Debug/net6.0/findsmall.dll
+/home/mjchaurasia/C#/findsmall/bin/Debug/net6.0/findsmall.pdb
+/home/mjchaurasia/C#/findsmall/obj/Debug/net6.0/findsmall.csproj.AssemblyReference.cache
+/home/mjchaurasia/C#/findsmall/obj/Debug/net6.0/findsmall.GeneratedMSBuildEditorConfig.editorconfig
+/home/mjchaurasia/C#/findsmall/obj/Debug/net6.0/findsmall.AssemblyInfoInputs.cache
+/home/mjchaurasia/C#/findsmall/obj/Debug/net6.0/findsmall.AssemblyInfo.cs
+/home/mjchaurasia/C#/findsmall/obj/Debug/net6.0/findsmall.csproj.CoreCompileInputs.cache
+/home/mjchaurasia/C#/findsmall/obj/Debug/net6.0/findsmall.dll
+/home/mjchaurasia/C#/findsmall/obj/Debug/net6.0/refint/findsmall.dll
+/home/mjchaurasia/C#/findsmall/obj/Debug/net6.0/findsmall.pdb
+/home/mjchaurasia/C#/findsmall/obj/Debug/net6.0/findsmall.genruntimeconfig.cache
+/home/mjchaurasia/C#/findsmall/obj/Debug/net6.0/ref/findsmall.dll
